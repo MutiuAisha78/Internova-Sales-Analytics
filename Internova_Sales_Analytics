@@ -1,0 +1,72 @@
+Internova Sales Analytics Dashboard
+
+Project Overview
+
+This project focuses on analysing Internova's sales data to evaluate business performance, understand customer purchasing behaviour and identify opportunities for revenue growth.
+
+Using Microsoft Power BI, I transformed sales data into an interactive dashboard that provides insights into sales trends, customer retention, product category performance, customer segmentation, geographical distribution and shipping preferences.
+
+The objective was to move beyond presenting sales figures and provide actionable business recommendations that could support better decision-making.
+
+Tools and Technologies
+
+- Microsoft Power BI
+- Power Query
+- DAX (Data Analysis Expressions)
+
+Key Performance Indicators (KPIs)
+
+The analysis focused on the following metrics:
+
+KPI| Result
+Total Sales| $2.26M
+Total Customers| 793
+Repeat Customers| 780
+Repeat Customer Rate| 98.36%
+Average Sales per Customer| $2,850
+Average Order Value| $459.48
+
+Key Business Insights
+
+1. Customer Retention
+
+Out of 793 customers, 780 are repeat buyers, representing a 98.36% repeat customer rate.
+
+Business Recommendation: Strengthen customer retention through loyalty programmes, personalised promotions and referral incentives.
+
+2. Product Category Performance
+
+Technology leads revenue generation with approximately $836K in sales, while Office Supplies records the highest order frequency.
+
+Business Recommendation: Explore cross-selling and product bundling opportunities to increase average order value.
+
+3. Customer Segmentation
+
+The Consumer segment contributes 50.79% of total sales, followed by Corporate at 30.44% and Home Office at 18.78%.
+
+Business Recommendation: Maintain Consumer customer engagement while developing targeted purchasing incentives for Corporate and Home Office customers.
+
+4. Geographical Performance
+
+Sales activity is concentrated in the West and East regions, with cities such as New York City, Los Angeles, Philadelphia, San Francisco and Seattle among the leading contributors.
+
+Business Recommendation: Investigate opportunities to improve market penetration in underperforming geographical regions.
+
+5. Sales Trends and Shipping Performance
+
+Sales peak in Q4 after a slight decline in Q2. Standard Class dominates shipping preferences, accounting for 59.79% of orders.
+
+Business Recommendation: Improve inventory planning ahead of Q4 and investigate opportunities to optimise shipping operations.
+
+Project Deliverables
+
+- Interactive Power BI sales dashboard.
+- Customer analytics and sales performance analysis.
+- Business insights and actionable recommendations.
+- Executive sales performance report.
+
+Key Takeaway
+
+This project demonstrates how data analytics can help businesses understand customer behaviour, evaluate sales performance, identify growth opportunities and make informed business decisions.
+
+Rather than focusing solely on what happened, the analysis explores what the findings mean for the business and what actions management can take.
